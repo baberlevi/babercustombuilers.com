@@ -1,0 +1,3 @@
+[submodule "bcb-hugo/themes/hugo-hero-theme"]
+	path = bcb-hugo/themes/hugo-hero-theme
+	url = https://github.com/JugglerX/hugo-hero-theme.git

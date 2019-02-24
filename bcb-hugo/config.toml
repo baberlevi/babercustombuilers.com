@@ -1,0 +1,38 @@
+baseURL = "babercustombuilders.com"
+languageCode = "en-us"
+title = "Baber Custom Builders"
+themesDir = "themes"
+theme = "hugo-hero-theme"
+
+[params]
+  google_analytics_id=""
+
+  [params.homepage_meta_tags]
+    meta_description = ""
+    meta_og_title = "Baber Custom Builders"
+    meta_og_type = "website"
+    meta_og_url = ""
+    meta_og_image = ""
+    meta_og_description = ""
+    meta_twitter_card = ""
+    meta_twitter_site = ""
+    meta_twitter_creator = ""
+
+[[menu.main]]
+	name = "Services"
+	url = "/services/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
