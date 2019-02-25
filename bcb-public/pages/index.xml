@@ -2,32 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Baber Custom Builders</title>
-    <link>babercustombuilders.com/pages/</link>
+    <link>/pages/</link>
     <description>Recent content in Pages on Baber Custom Builders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate>
     
-	<atom:link href="babercustombuilders.com/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>babercustombuilders.com/about/</link>
+      <link>/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>babercustombuilders.com/about/</guid>
+      <guid>/about/</guid>
       <description> Building Relationships We don&amp;rsquo;t just build quality buildings, we focus on customer relationships. Our clients are the core of our business, and most of business comes from referrals. If you&amp;rsquo;d like to talk to a previous customer, let us know - we&amp;rsquo;re happy to connect you to one of our satisfied clients.
      </description>
-    </item>
-    
-    <item>
-      <title>History</title>
-      <link>babercustombuilders.com/history/</link>
-      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      
-      <guid>babercustombuilders.com/history/</guid>
-      <description> About Heading </description>
     </item>
     
   </channel>
