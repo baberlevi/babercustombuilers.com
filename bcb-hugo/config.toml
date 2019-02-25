@@ -19,8 +19,8 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = ""
 
 [[menu.main]]
-	name = "Services"
-	url = "/services/"
+    name = "Services"
+    url = "/services/"
     weight = 1
 
 [[menu.main]]
