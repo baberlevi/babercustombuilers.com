@@ -6,7 +6,7 @@ featured: true
 draft: false
 weight: 100
 heroHeading: 'Services'
-heroSubHeading: 'Services that grow with your business'
-heroBackground: 'services/service1.jpg'
+heroSubHeading: 'Construction Services'
+heroBackground: 'services/bcb-services-hero.jpg'
 ---
 
